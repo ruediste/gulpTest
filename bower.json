@@ -1,0 +1,21 @@
+{
+  "name": "gulp-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ruedi Steinmann <ruediste@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ruediste/dynapatch",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
